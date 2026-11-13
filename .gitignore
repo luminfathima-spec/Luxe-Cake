@@ -1,0 +1,6 @@
+# Environment and database caches
+*.sqlite
+.env
+.idea/
+.vscode/
+*.log

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#AA771C"/>
+    </linearGradient>
+  </defs>
+  <text x="15" y="42" font-family="'Playfair Display', Georgia, serif" font-size="34" font-weight="bold" fill="url(#goldGrad)">LUXE</text>
+  <text x="110" y="42" font-family="'Montserrat', sans-serif" font-size="28" font-weight="300" letter-spacing="4" fill="#2C2A29">CAKE</text>
+  <circle cx="218" cy="22" r="4" fill="#D4AF37"/>
+</svg>
